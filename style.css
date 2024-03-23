@@ -1,0 +1,64 @@
+body{
+    background-color:  #FBDBD4;
+}
+
+.heading{
+    margin:0 auto;
+    margin-bottom: 20px;
+    height:150px;
+    width:400px;
+    color:black ;
+    background-color: #cae6dd;   
+    text-align: center; 
+    border-radius: 5%;
+    border :2px solid black;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heroSection{
+    height:auto;
+    width: 400px;
+    border-radius: 5%;
+    border: 2px solid black;
+    margin: 0 auto ;
+    background-color: #cae6dd  ;
+}
+
+.primInp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.des{
+    height:30px;
+    width:200px;
+}
+
+.SecInp{
+    margin-top: 20px;
+}
+
+.btnDes{
+    height:35px;
+    width:50px;
+    background-color: #feff9e;
+}
+
+.delet{
+    margin-top:20px;  
+    font-size: 11px;
+    text-align: end;
+    font-weight: bold;
+}
+
+.textdec{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.delet:hover{
+    font-size: 12px;
+}
