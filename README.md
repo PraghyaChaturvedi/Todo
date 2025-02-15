@@ -42,5 +42,5 @@ If you'd like to contribute, feel free to fork the repo and submit a pull reques
 This project is licensed under the MIT License.
 
 ## Contact
-For any queries, reach out at **praghyachaturvedi@gmail.com** or connect via [GitHub]([https://github.com/PraghyaChaturvedi]).
+For any queries, reach out at **praghyachaturvedi@gmail.com** or connect via [GitHub](https://github.com/PraghyaChaturvedi).
 
