@@ -27,7 +27,7 @@ This is a simple ToDo App built using HTML, CSS, and JavaScript. The project aim
 3. Open `index.html` in your browser.
 
 ## Project Structure
-```
+
 todo-app/
 │── index.html       # Main HTML file
 │── styles.css       # CSS file for styling
