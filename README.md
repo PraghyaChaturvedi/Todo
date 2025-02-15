@@ -18,7 +18,7 @@ This is a simple ToDo App built using HTML, CSS, and JavaScript. The project aim
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/PraghyaChaturvedi/todo-app.git
    ```
 2. Open the project folder:
    ```sh
@@ -35,9 +35,6 @@ todo-app/
 └── README.md        # Project documentation
 ```
 
-## Screenshots
-_Add screenshots here to showcase the design._
-
 ## Contributing
 If you'd like to contribute, feel free to fork the repo and submit a pull request.
 
@@ -45,5 +42,5 @@ If you'd like to contribute, feel free to fork the repo and submit a pull reques
 This project is licensed under the MIT License.
 
 ## Contact
-For any queries, reach out at **your-email@example.com** or connect via [GitHub](https://github.com/your-username).
+For any queries, reach out at **praghyachaturvedi@gmail.com** or connect via [GitHub]([https://github.com/PraghyaChaturvedi]).
 
