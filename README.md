@@ -33,14 +33,12 @@ todo-app/
 │── styles.css       # CSS file for styling
 │── script.js        # JavaScript file for functionality
 └── README.md        # Project documentation
-```
 
-## Contributing
-If you'd like to contribute, feel free to fork the repo and submit a pull request.
-
-## License
-This project is licensed under the MIT License.
 
 ## Contact
 For any queries, reach out at **praghyachaturvedi@gmail.com** or connect via [GitHub](https://github.com/PraghyaChaturvedi).
 
+## Screenshot
+![Screenshot 2025-02-16 020009](https://github.com/user-attachments/assets/3458b1ce-2796-4dfa-8bec-836826bf92e6)
+
+![Screenshot 2025-02-16 020039](https://github.com/user-attachments/assets/d9f56654-60ff-4bd8-9d5f-6e217113e593)
